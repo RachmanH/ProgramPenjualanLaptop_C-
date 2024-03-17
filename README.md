@@ -15,13 +15,11 @@ Program yang saya buat memiliki 2 Fitur terpisah diantaranya dalah
 
 Akun Akun :
 ~ Akun Admin :
-1.  user : admin
+-   user : admin
     password : admin123
 
 ~ Akun User :
-
-1.  user : agri
+-   user : agri
     password : agri123
-
-2.  user : putra
+-   user : putra
     password : putra123
