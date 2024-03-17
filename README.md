@@ -1,3 +1,6 @@
+
+Program C++ OOP Dasar tentang "Program Penjualan Laptop" 
+
 Program yang saya buat memiliki 2 Fitur terpisah diantaranya dalah
 ~ Fitur Admin
   - Menambahkan Laptop serta menyimpan data laptop pada file yang berekstensi ".txt"
