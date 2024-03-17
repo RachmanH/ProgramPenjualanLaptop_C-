@@ -84,11 +84,11 @@ public:
                 cout << "17% untuk harga di atas 7 juta" << endl;
                 cout << "Bonus      : Mouse & Keyboard Logitech Wireless" << endl;
                 break;
-            case 10:
+            case 13:
                 cout << "13% untuk harga di atas 5 juta" << endl;
                 cout << "Bonus      : Mouse Wireless & Headphone" << endl;
                 break;
-            case 9:
+            case 10:
                 cout << "10% untuk harga di atas 4 juta" << endl;
                 cout << "Bonus      : Mouse Wireless" << endl;
                 break;
